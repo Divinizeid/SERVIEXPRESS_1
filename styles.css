@@ -1,0 +1,17 @@
+.vista-oculta {
+    display: none !important;
+}
+
+.card-servicio {
+    transition: transform 0.15s ease-in-out;
+}
+
+.card-servicio:hover {
+    transform: translateY(-3px);
+}
+
+.table th {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
